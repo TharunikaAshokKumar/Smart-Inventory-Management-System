@@ -1,1 +1,6 @@
+flask
+pandas
+scikit-learn
+sqlalchemy
+matplotlib
 
