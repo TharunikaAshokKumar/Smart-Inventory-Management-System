@@ -25,7 +25,7 @@ A smart inventory management system that uses AI to predict stock levels and opt
 
 3. Install the required libraries:
     ```sh
-    pip install -r requirements.txt
+    pip install -r requirements.txt.txt
     ```
 
 4. Set up the database:
