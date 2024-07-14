@@ -53,4 +53,3 @@ A smart inventory management system that uses AI to predict stock levels and opt
 ### Add a Product
 ```sh
 curl -X POST -H "Content-Type: application/json" -d "{\"name\": \"Product A\", \"category\": \"Category 1\", \"stock\": 100, \"reorder\": 50}" http://127.0.0.1:5000/add_product
-
